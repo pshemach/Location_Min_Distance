@@ -1,1 +1,1 @@
-DEPOT='Kiribathkumbura'
+DEPOT = 'Kiribathkumbura'

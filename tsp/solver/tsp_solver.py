@@ -22,4 +22,4 @@ def get_solution(distance_matrix_path):
 
     solution = routing.SolveWithParameters(search_parameters)
 
-    return solution 
+    return solution, routing, manager, distance_matrix, locations
