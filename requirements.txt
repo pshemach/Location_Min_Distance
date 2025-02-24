@@ -1,8 +1,9 @@
-Flask==2.3.2
-numpy==1.24.3
-pandas==2.0.3
-ortools==9.7.2996
+Flask
+numpy
+pandas
+ortools
 folium
 geopy
 ace_tools
+from_root
 -e .
