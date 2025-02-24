@@ -1,4 +1,4 @@
-Flask
+fastapi[all]==0.110.0
 numpy
 pandas
 ortools
